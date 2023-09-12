@@ -36,6 +36,7 @@ Content-Type application/json
 
 There are a couple of things i would have liked to improve:
 - Better error handling in both the UI and Backend
+- Improve validations
 - Improvements in processing speed (Sometimes the UI will take a few seconds longer to load)
 
 If there is any question or anything is unclear please feel free to reach out at any time.
